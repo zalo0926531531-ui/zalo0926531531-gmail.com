@@ -1,0 +1,6 @@
+{
+  "name": "COSMOS OS",
+  "description": "An interactive cinematic 3D space exploration platform and futuristic operating system powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
